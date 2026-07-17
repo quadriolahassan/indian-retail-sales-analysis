@@ -1,16 +1,50 @@
 # Indian Retail Sales Analysis Using Power BI
 
-> **An interactive Business Intelligence dashboard analyzing sales performance, customer behavior, product performance and regional trends using Microsoft Power BI.**
+> ### Interactive Business Intelligence Dashboard for Sales Performance, Customer Insights, Product Analysis and Regional Performance
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data_Analysis-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-Transformation-green?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
 
 ---
 
-## 📌 Overview
+## 📑 Table of Contents
 
-This project presents a comprehensive business intelligence analysis of an Indian retail sales dataset using Microsoft Power BI.
+- [Project Overview](#-project-overview)
+- [Business Objectives](#-business-objectives)
+- [Dataset Information](#-dataset-information)
+- [Tools & Technologies](#-tools--technologies)
+- [Data Preparation](#-data-preparation)
+- [Dashboard Pages](#-dashboard-pages)
+- [Key Insights](#-key-insights)
+- [Business Recommendations](#-business-recommendations)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Dashboard Preview](#-dashboard-preview)
+- [Repository Structure](#-repository-structure)
+- [Author](#-author)
+- [Acknowledgements](#-acknowledgements)
 
-The dataset consists of two related tables (`Orders.csv` and `Details.csv`). Using Power Query, Data Modelling and DAX, an interactive dashboard was developed to transform raw transactional data into meaningful business insights.
+---
 
-The dashboard enables decision-makers to monitor business performance, identify top-performing products and regions, understand customer purchasing behaviour and support strategic decision-making.
+## 📖 Project Overview
+
+Businesses generate large volumes of sales data every day, but raw data alone does not support effective decision-making. This project demonstrates how Microsoft Power BI can be used to transform transactional retail data into meaningful business intelligence through interactive dashboards.
+
+Using an Indian retail sales dataset obtained from Kaggle, the data was cleaned, transformed, modelled and analysed to evaluate business performance across products, customers, payment methods, regions and monthly sales trends.
+
+The resulting dashboards provide decision-makers with actionable insights to monitor performance, identify growth opportunities and support data-driven business decisions.
+
+---
+
+## 🚀 Project Highlights
+
+- 📦 1,500 Customer Orders Analysed
+- 💰 $512,813 Total Revenue
+- 📈 $75,004 Total Profit
+- 🛍 5,615 Products Sold
+- 🗺 Analysis Across Multiple Indian States
+- 📊 Four Interactive Power BI Dashboards
 
 ---
 
@@ -136,8 +170,6 @@ The dashboard contains four interactive reports:
 ## 🖼 Dashboard Preview
 
 Dashboard screenshots are available in the **images** folder.
-
-*(Screenshots will be added in the next update.)*
 
 ---
 
