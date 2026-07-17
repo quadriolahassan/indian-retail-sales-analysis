@@ -169,7 +169,27 @@ The dashboard contains four interactive reports:
 
 ## 🖼 Dashboard Preview
 
-Dashboard screenshots are available in the **images** folder.
+### 📊 Executive Dashboard
+
+![Executive Dashboard](Executive%20Dashboard.png)
+
+---
+
+### 🛍 Product Dashboard
+
+![Product Dashboard](Product%20Dashboard.png)
+
+---
+
+### 👥 Customer Dashboard
+
+![Customer Dashboard](Customer%20Dashboard.png)
+
+---
+
+### 📍 Location Dashboard
+
+![Location Dashboard](Location%20Dashboard.png)
 
 ---
 
