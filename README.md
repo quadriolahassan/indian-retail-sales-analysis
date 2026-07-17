@@ -90,30 +90,47 @@ The dashboard contains four interactive reports:
 
 ### 📈 Executive Summary
 
-- Revenue KPIs
-- Profit KPIs
-- Orders
-- Quantity Sold
-- Monthly Revenue Trend
+- Current Month Revenue KPIs
+- Revenue Card
+- Top Selling Product Card
+- Order Count
+- Total Revenue by Category Treemap
+- Total Revenue by State Stacked bar chart
+- Drill through embeded in Total Revenue by State to Location Dashboard
 
 ### 🛍 Product Analysis
 
-- Category Performance
-- Sub-category Performance
-- Best-selling Products
-- Lowest-selling Products
+- Product Performance Matrix Table Visualization
+- Top 10 Product by Revenue Clustered column chart
+- Top 10 Product by Profit Clustered column chart
+- Top 10 Product by Quantity Sold Clustered column chart
+- Total Revenue Card
+- Total Profit Card
+- Quantity Sold Card
+- Orders Per Day Card
+- Order Count Card
 
 ### 👥 Customer Analysis
 
-- Top Customers
-- Payment Methods
-- Customer Spending
+- Top Customer Name Card
+- Customer Lifetime Value Card
+- Total Customer Card
+- Top 10 Customer by Revenue Clustered column chart
+- Top 10 Customer by Order Count Clustered column chart
+- Profit Sum by Customer Name Clustered column chart
+- Customer Performance Matrix Table Visualization
 
-### 📍 Geographic Analysis
+### 📍 Location Analysis
 
-- Revenue by State
-- Orders by State
-- Regional Comparison
+- Drill through on any of the selected state, take you to location dashboard and display the following;
+- Current Month Revenue KPIs
+- State Name Card
+- State's Contribution to Total Revenue in Percentage
+- State's Performance by Category and Product Matrix Table Visualization
+- Payment Mode Donut Chart
+- Revenue Trends showing trend line, x-axis constant line and two months forecast length
+- Slicer showing start of growth slowdonw and end of growth slow down
+- Bookmark and back button that take you back to executive dashboard.
 
 ---
 
