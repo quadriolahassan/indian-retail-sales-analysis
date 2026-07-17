@@ -93,7 +93,7 @@ The dashboard contains four interactive reports:
 - Current Month Revenue KPIs
 - Revenue Card
 - Top Selling Product Card
-- Order Count
+- Order Count Card
 - Total Revenue by Category Treemap
 - Total Revenue by State Stacked bar chart
 - Drill through embeded in Total Revenue by State to Location Dashboard
