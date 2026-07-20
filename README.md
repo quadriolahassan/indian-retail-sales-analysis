@@ -20,6 +20,7 @@
 - [Project Overview](#-project-overview)
 - [Business Objectives](#-business-objectives)
 - [Dataset Information](#-dataset-information)
+- [Key Results](#-key-results)
 - [Tools & Technologies](#-tools--technologies)
 - [Data Preparation](#-data-preparation)
 - [Dashboard Pages](#-dashboard-pages)
