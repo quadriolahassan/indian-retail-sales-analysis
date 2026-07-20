@@ -90,6 +90,15 @@ This project answers the following business questions:
 
 ---
 
+## ⭐ Key Results
+
+- Built an interactive Power BI dashboard using two related retail datasets.
+- Analyzed **1,500 customer orders** across India.
+- Evaluated **$512.81K** in total revenue and **$75.00K** in total profit.
+- Designed **four interactive dashboard pages** with drill-through navigation.
+- Identified top-performing states, products, categories, customers, and payment methods.
+- Delivered business recommendations to improve sales performance and profitability.
+
 ## 📊 Dashboard Pages
 
 The dashboard contains four interactive reports:
