@@ -23,7 +23,6 @@
 - [Tools & Technologies](#-tools--technologies)
 - [Dataset Information](#-dataset-information)
 - [Key Results](#-key-results)
-- [Data Preparation](#-data-preparation)
 - [Dashboard Pages](#-dashboard-pages)
 - [Key Insights](#-key-insights)
 - [Business Recommendations](#-business-recommendations)
