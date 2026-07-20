@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="project-banner.png" alt="Indian Retail Sales Analysis Banner" width="100%">
+</p>
+
+---
+
 # Indian Retail Sales Analysis Using Power BI
 
 > ### Interactive Business Intelligence Dashboard for Sales Performance, Customer Insights, Product Analysis and Regional Performance
