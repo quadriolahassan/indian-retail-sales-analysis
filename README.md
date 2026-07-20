@@ -28,6 +28,7 @@
 - [Business Recommendations](#-business-recommendations)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Dashboard Preview](#-dashboard-preview)
+- [How to Use This Dashboard](#-how-to-use-this-dashboard)
 - [Repository Structure](#-repository-structure)
 - [Author](#-author)
 - [Acknowledgements](#-acknowledgements)
@@ -225,6 +226,16 @@ The dashboard contains four interactive reports:
 ![Location Dashboard](Location%20Dashboard.png)
 
 ---
+
+## 🚀 How to Use This Dashboard
+
+1. Download the `.pbix` file.
+2. Open it using Microsoft Power BI Desktop.
+3. Navigate through the four dashboard pages.
+4. Use slicers to filter the data.
+5. Right-click on a state in the Executive Dashboard and select **Drill Through** to explore detailed state-level performance.
+
+---   
 
 ## 📁 Repository Structure
 
