@@ -18,10 +18,11 @@
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
+- [Project Highlights](#-project-highlights)
 - [Business Objectives](#-business-objectives)
+- [Tools & Technologies](#-tools--technologies)
 - [Dataset Information](#-dataset-information)
 - [Key Results](#-key-results)
-- [Tools & Technologies](#-tools--technologies)
 - [Data Preparation](#-data-preparation)
 - [Dashboard Pages](#-dashboard-pages)
 - [Key Insights](#-key-insights)
